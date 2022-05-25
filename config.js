@@ -31,7 +31,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'armnd-wa.me/6287823406145'
-global.author = 'Bubu Bot'
+global.author = 'SillL-Cans'
 
 global.multiplier = 69 // The higher, The harder levelup
 
