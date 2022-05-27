@@ -3,9 +3,9 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6281959302821'],
-  ['6281959302821'],
-  ['6281959302821', 'SilviCans', true]
+  ['6283124597130'],
+  ['6283124597130'],
+  ['6283124597130', 'botak', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -31,7 +31,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'armnd-wa.me/6287823406145'
-global.author = 'SillL-Cans'
+global.author = 'BOTAK'
 
 global.multiplier = 69 // The higher, The harder levelup
 
